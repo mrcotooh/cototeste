@@ -76,7 +76,7 @@ sleep 2
 git clone https://github.com/Dakauann/verifica-o-1
 git clone https://github.com/Dakauann/verificar2
 git clone https://github.com/Dakauann/verifica-o-1
-cd TrashDkbot4.0
+cd cototeste
 chmod +x git.sh
 echo "$verde"
 echo "Agora tem 2 etapas de senhas...."
